@@ -1,4 +1,4 @@
-# 💫 Hi 👋, , I'm Harsh singh
+# 💫 Hi 👋, I'm Harsh singh
 
 -  🔭 I'm currently working on: Building scalable, responsive web applications and complex dashboard interfaces for large-scale projects.<br> 👯 I'm looking to collaborate on: Open-source projects that focus on frontend architecture, UI/UX optimization, or innovative web tools.<br>
 - 💛 I'm looking for help with: Backend integration (specifically Node.js/databases) and advanced state management patterns.<br> 🌱 I'm currently learning: TypeScript, Next.js, and advanced CSS animation techniques to polish my user interfaces.<br>

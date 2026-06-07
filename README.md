@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=FF0000&background=1A0000&center=true&vCenter=true&width=600&height=100&lines=Harsh+Singh;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing Animation" />
+</div>
+
 # 💫 Hi 👋, I'm Harsh singh
 
 -  🔭 I'm currently working on: Building scalable, responsive web applications and complex dashboard interfaces for large-scale projects.<br>

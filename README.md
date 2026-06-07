@@ -34,12 +34,13 @@
 ![](https://streak-stats.demolab.com/?user=rajsingh65145-a11y&theme=holi&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajsingh65145-a11y&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
 </div>
-
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=1800&pause=300&color=F71B1B&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%94%A5+Dark+Red+Master+%F0%9F%94%A5;%3C%2F%3E+Code+is+Poetry+%3C%2F%3E;Digital+Artisan+%7C+Problem+Solver" alt="Typing Animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rajsingh65145-a11y&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -47,8 +48,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rajsingh65145-a11y&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=rajsingh65145-a11y&icon=0&color=9)](https://visitcount.itsvg.in)

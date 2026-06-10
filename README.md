@@ -41,8 +41,7 @@
 ### API Integration
 ![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajsingh65145-a11y&bg_color=000000&color=888888&line=444444&point=888888&hide_border=true)](https://github.com/rajsingh65145-a11y)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajsingh65145-a11y&theme=github-compact&hide_border=true&area=true"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
@@ -50,9 +49,8 @@
 <br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=1800&pause=300&color=F71B1B&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%94%A5+Dark+Red+Master+%F0%9F%94%A5;%3C%2F%3E+Code+is+Poetry+%3C%2F%3E;Digital+Artisan+%7C+Problem+Solver" alt="Typing Animation" />
-</div>
 
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=rajsingh65145-a11y&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote

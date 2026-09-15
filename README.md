@@ -41,8 +41,7 @@ Backend & data <br/> <img src="https://img.shields.io/badge/Node.js-1a0000?style
 Tools & platforms <br/> <img src="https://img.shields.io/badge/Git-1a0000?style=for-the-badge&logo=git&logoColor=FF0000" /> <img src="https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=FF0000" /> <img src="https://img.shields.io/badge/GitHub_Actions-1a0000?style=for-the-badge&logo=githubactions&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Vercel-1a0000?style=for-the-badge&logo=vercel&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Mocha-1a0000?style=for-the-badge&logo=mocha&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Notion-1a0000?style=for-the-badge&logo=notion&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Canva-1a0000?style=for-the-badge&logo=canva&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Adobe-1a0000?style=for-the-badge&logo=adobe&logoColor=FF0000" />
 
 
-![3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
+  ![3D contribution graph](./profile-3d-contrib/profile-red-theme.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -41,8 +41,8 @@ Backend & data <br/> <img src="https://img.shields.io/badge/Node.js-1a0000?style
 Tools & platforms <br/> <img src="https://img.shields.io/badge/Git-1a0000?style=for-the-badge&logo=git&logoColor=FF0000" /> <img src="https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=FF0000" /> <img src="https://img.shields.io/badge/GitHub_Actions-1a0000?style=for-the-badge&logo=githubactions&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Vercel-1a0000?style=for-the-badge&logo=vercel&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Mocha-1a0000?style=for-the-badge&logo=mocha&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Notion-1a0000?style=for-the-badge&logo=notion&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Canva-1a0000?style=for-the-badge&logo=canva&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Adobe-1a0000?style=for-the-badge&logo=adobe&logoColor=FF0000" />
 
 
-GitHub stats
-<div align="center"> <img src="https://github-readme-stats.shion.dev/api?username=rajsingh65145-a11y&hide_border=false&include_all_commits=true&count_private=false&bg_color=1a0000&title_color=FF0000&icon_color=FF0000&text_color=FF4D4D&border_color=FF0000" width="49%" /> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rajsingh65145-a11y&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=1a0000&title_color=FF0000&text_color=FF4D4D&border_color=FF0000" width="34%" /> <br/> <img src="https://streak-stats.demolab.com/?user=rajsingh65145-a11y&hide_border=false&background=1a0000&ring=FF0000&fire=FF0000&currStreakNum=FF4D4D&sideNums=FF4D4D&currStreakLabel=FF4D4D&sideLabels=FF4D4D&dates=FF9999&border=FF0000" width="60%" /> </div> <br/>
+![3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -56,21 +56,7 @@ Proficiency
 
 ## Activity
 
-<div align="center">
 
-<img src="https://ghchart.rshah.org/FF0000/rajsingh65145-a11y" alt="GitHub contribution chart" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajsingh65145-a11y&theme=dark&column=4&margin-w=8&margin-h=8&no-frame=true&no-bg=false&row=2" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2200&pause=600&color=FF0000&center=true&vCenter=true&width=700&height=60&lines=%3C%2F%3E+code+is+craft+%3C%2F%3E;still+debugging%2C+still+shipping;built+in+the+dark%2C+shipped+in+the+light" alt="Typing Animation" />
-</div>
 
 
 

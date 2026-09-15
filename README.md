@@ -66,8 +66,4 @@ Proficiency
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rajsingh65145-a11y&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
----
-[![](https://komarev.com/ghpvc/?username=rajsingh65145-a11y&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://komarev.com/ghpvc/?username=rajsingh65145-a11y&color=ff3b3b&style=flat-square&label=Profile+Views)

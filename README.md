@@ -41,6 +41,12 @@ Backend & data <br/> <img src="https://img.shields.io/badge/Node.js-1a0000?style
 Tools & platforms <br/> <img src="https://img.shields.io/badge/Git-1a0000?style=for-the-badge&logo=git&logoColor=FF0000" /> <img src="https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=FF0000" /> <img src="https://img.shields.io/badge/GitHub_Actions-1a0000?style=for-the-badge&logo=githubactions&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Vercel-1a0000?style=for-the-badge&logo=vercel&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Mocha-1a0000?style=for-the-badge&logo=mocha&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Notion-1a0000?style=for-the-badge&logo=notion&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Canva-1a0000?style=for-the-badge&logo=canva&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Adobe-1a0000?style=for-the-badge&logo=adobe&logoColor=FF0000" />
 
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsingh65145-a11y&layout=donut&langs_count=12&hide_border=true&bg_color=0d0000&title_color=ff3b3b&text_color=f5dcdc" alt="Top Languages" />
+
+</div>
+
   ![3D contribution graph](./profile-3d-contrib/profile-red-theme.svg)
 
 
@@ -48,6 +54,9 @@ Tools & platforms <br/> <img src="https://img.shields.io/badge/Git-1a0000?style=
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 
 Proficiency
 <table width="100%"> <tr> <td width="200px"><b>JavaScript</b></td> <td><img src="https://geps.dev/progress/85?dangerColor=800000&warningColor=FF3B30&successColor=FF0000" /></td> </tr> <tr> <td><b>DOM manipulation</b></td> <td><img src="https://geps.dev/progress/90?dangerColor=800000&warningColor=FF3B30&successColor=FF0000" /></td> </tr> <tr> <td><b>API integration</b></td> <td><img src="https://geps.dev/progress/80?dangerColor=800000&warningColor=FF3B30&successColor=FF0000" /></td> </tr> </table> <br/>

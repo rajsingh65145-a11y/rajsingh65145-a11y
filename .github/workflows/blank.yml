@@ -23,25 +23,25 @@ jobs:
           SETTING_JSON: conf/profile3d.json
 
 
-
-      - name: Remove language circle from SVG
+       - name: Remove language circle from SVG
         run: |
           python3 - <<'EOF'
-          import re
+          import xml.etree.ElementTree as ET
+          ns = "http://www.w3.org/2000/svg"
+          ET.register_namespace("", ns)
           path = "profile-3d-contrib/profile-red-theme.svg"
-          svg = open(path, encoding="utf-8").read()
-          new_svg = re.sub(
-              r'<g transform="translate\(40, 520\)">.*?(?=<g><text style="font-size: 32px)',
-              '',
-              svg,
-              flags=re.DOTALL,
-          )
-          if new_svg == svg:
-              print("Circle block not found, nothing removed")
-          else:
-              print("Circle removed")
-          open(path, "w", encoding="utf-8").write(new_svg)
+          tree = ET.parse(path)
+          root = tree.getroot()
+          removed = 0
+          for g in list(root.findall(f"{{{ns}}}g")):
+              t = g.get("transform", "").replace(" ", "")
+              if t == "translate(40,520)":
+                  root.remove(g)
+                  removed += 1
+          print("Removed groups:", removed)
+          tree.write(path, encoding="utf-8", xml_declaration=False)
           EOF
+
           
       - name: Commit generated files
         run: |

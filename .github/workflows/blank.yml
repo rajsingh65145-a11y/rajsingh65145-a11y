@@ -21,6 +21,28 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: conf/profile3d.json
+
+
+
+      - name: Remove language circle from SVG
+        run: |
+          python3 - <<'EOF'
+          import re
+          path = "profile-3d-contrib/profile-red-theme.svg"
+          svg = open(path, encoding="utf-8").read()
+          new_svg = re.sub(
+              r'<g transform="translate\(40, 520\)">.*?(?=<g><text style="font-size: 32px)',
+              '',
+              svg,
+              flags=re.DOTALL,
+          )
+          if new_svg == svg:
+              print("Circle block not found, nothing removed")
+          else:
+              print("Circle removed")
+          open(path, "w", encoding="utf-8").write(new_svg)
+          EOF
+          
       - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"

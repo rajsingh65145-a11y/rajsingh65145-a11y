@@ -23,8 +23,12 @@ jobs:
           SETTING_JSON: conf/profile3d.json
 
 
-       - name: Remove language circle from SVG
+             - name: Remove language circle from SVG
         run: |
+          F=profile-3d-contrib/profile-red-theme.svg
+          ls -la profile-3d-contrib/
+          echo "BEFORE:"
+          grep -Eo "<title>[A-Za-z+#]+ [0-9]+</title>" $F || echo "no language titles found"
           python3 - <<'EOF'
           import xml.etree.ElementTree as ET
           ns = "http://www.w3.org/2000/svg"
@@ -34,14 +38,16 @@ jobs:
           root = tree.getroot()
           removed = 0
           for g in list(root.findall(f"{{{ns}}}g")):
-              t = g.get("transform", "").replace(" ", "")
-              if t == "translate(40,520)":
+              t = g.get("transform")
+              print("top-level group:", t)
+              if t and t.replace(" ", "") == "translate(40,520)":
                   root.remove(g)
                   removed += 1
           print("Removed groups:", removed)
           tree.write(path, encoding="utf-8", xml_declaration=False)
           EOF
-
+          echo "AFTER:"
+          grep -Eo "<title>[A-Za-z+#]+ [0-9]+</title>" $F || echo "no language titles found (good)"
           
       - name: Commit generated files
         run: |
